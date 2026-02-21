@@ -1,7 +1,7 @@
 # Logica-de-Programacao-C
 Exercícios práticos de Lógica de Programação e Algoritmos usando linguagem C.
 
-Este repositório contém meus projetos práticos desenvolvidos durante meus estudos de Análise e Desenvolvimento de Sistemas (ADS) na **UNAMA**. O foco aqui é demonstrar domínio sobre lógica estrutural, manipulação de memória e algoritmos.
+Este repositório contém meus projetos práticos desenvolvidos durante meus estudos de Análise e Desenvolvimento de Sistemas (ADS). O foco aqui é demonstrar domínio sobre lógica estrutural, manipulação de memória e algoritmos.
 
 ## 📂 Projetos
 
