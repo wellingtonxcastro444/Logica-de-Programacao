@@ -1,13 +1,21 @@
-# Logica-de-Programacao-C
-Exercícios práticos de Lógica de Programação e Algoritmos usando linguagem C.
+# Lógica de Programação — C e Python
 
-Este repositório contém meus projetos práticos desenvolvidos durante meus estudos de Análise e Desenvolvimento de Sistemas (ADS). O foco aqui é demonstrar domínio sobre lógica estrutural, manipulação de memória e algoritmos.
+Repositório com exercícios e mini-projetos de **Lógica de Programação e Algoritmos** em **C** e **Python**, feitos durante meus estudos (ADS).
 
-## 📂 Projetos
+## Estrutura
+- `c/` → exercícios e projetos em C
+- `python/` → exercícios e projetos em Python
 
-### . 🛒 Loja SportZone (Controle de Vendas)
-Sistema de gerenciamento para uma loja de esportes.
-- **Conceitos aplicados:** Arrays, Laços de Repetição (`while`, `for`) e Input/Output.
-- **Funcionalidade:** O usuário pode navegar pelo menu, escolher produtos e o sistema calcula o total, baixando o estoque automaticamente.
+## Conteúdos
+- Variáveis e condicionais
+- Laços (for/while)
+- Funções
+- Listas/arrays e strings
+- Entrada e saída (I/O)
 
-- Developed by **Wellington** | Estudante de Análise e Desenvolvimento de Sistemas.
+## Como executar
+
+### C (GCC)
+```bash
+gcc -o programa c/projetos/loja/main.c
+./programa
