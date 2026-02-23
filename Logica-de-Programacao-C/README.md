@@ -1,15 +1,32 @@
-# C — Lógica de Programação
+# Projeto 01 — Loja (terminal)
 
-Projetos e exercícios em **C**.
+Simulação de sistema de loja em terminal feita em C.
 
-## Projetos
+## Conceitos aplicados
 
-- **Projeto 01 — Loja (terminal)**: cardápio/compra e controle de estoque.  
-  Caminho: `Projeto-01-Loja/`
+- Variáveis e tipos primitivos
+- Estruturas condicionais (if / else / switch)
+- Laços de repetição (while)
+- Funções
+- Organização de menu interativo
+- Controle de estoque em memória
 
-## Como executar o Projeto 01 (GCC)
+## Funcionalidades
+
+- Exibir produtos
+- Comprar itens
+- Atualizar estoque
+- Menu interativo contínuo até sair
+
+## Objetivo do projeto
+
+Treinar lógica de programação estruturada e controle de fluxo,
+simulando um sistema real simples.
+
+## Compilar e executar
+
+Dentro da pasta:
 
 ```bash
-cd Logica-de-Programacao-C/Projeto-01-Loja
-gcc -o loja loja.c
+gcc -Wall -Wextra -std=c11 -o loja loja.c
 ./loja
