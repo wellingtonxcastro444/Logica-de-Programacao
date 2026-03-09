@@ -1,11 +1,11 @@
 # Lógica de Programação — C e Python
 
-Repositório de exercícios e mini-projetos de **Lógica de Programação e Algoritmos** em **C** e **Python** (ADS).
+Repositório de mini-projetos de **Lógica de Programação e Algoritmos** em **C** e **Python** (ADS).
 
 ## Estrutura
 
-- **Logica-de-Programacao-C/** → projetos e exercícios em C  
-- **python/** → exercícios e projetos em Python
+- **Logica-de-Programacao-C/** → projetos em C  
+- **python/** → projetos em Python
 
 ## Como usar
 
